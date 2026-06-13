@@ -2,7 +2,7 @@
 layout: page
 title: Postdoctoral work
 description: Becoming a drosophilist
-img: assets/img/3.jpg
+img: assets/img/becoming_drosophilist.jpg
 importance: 2
 category: work
 related_publications: true
@@ -14,4 +14,8 @@ So I moved to Paris, to the brain development lab of [Bassem Hassan](https://www
 
 I now study fruit flies, and specifically, I focus on the dorsal cluster neurons (also known as LC14) and a simple visual walking behavior that gives me plenty of puzzles to work on. I'll keep you posted on what we find.
 
-{% include figure.liquid path="assets/img/becoming_drosophilist.jpg" title="Credits to Alex Calzoni" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/becoming_drosophilist.jpg" title="Credits to Alex Calzoni" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
