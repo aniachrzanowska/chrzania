@@ -15,4 +15,9 @@ What attracted me was the idea that some behaviors emerge without any need for l
 My research focused on the superior colliculus, a midbrain structure that helps animals react rapidly to important events in their environment. I studied how mice respond to visual stimuli that reliably trigger defensive behaviors such as freezing or escaping. I got interested in how different types of neurons contribute to these reactions and how relatively small circuits can set the activity of larger brain-wide networks.
 
 If you'd like to dive into the details, check out the main publications from this work below {% cite sans2021optogenetic %}.
-{% include figure.liquid path="assets/img/optofusi.jpg" class="img-fluid rounded z-depth-1" %}
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/optofusi.jpg" title="A fruit fly walking" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
