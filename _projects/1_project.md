@@ -17,7 +17,7 @@ My research focused on the superior colliculus, a midbrain structure that helps 
 If you'd like to dive into the details, check out the main publications from this work below {% cite sans2021optogenetic %}.
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     {% include figure.liquid path="assets/img/optofusi.jpg" title="A fruit fly walking" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
