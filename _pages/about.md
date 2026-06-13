@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral fellow at the [Paris Brain Institute](https://parisbraininstitute.org/)
+subtitle: Postdoctoral fellow at the Paris Brain Institute
 
 profile:
   align: right
